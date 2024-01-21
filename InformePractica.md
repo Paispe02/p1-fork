@@ -1,38 +1,7 @@
-# Práctica 1
+# Memoria
 
-## Instrucciones 
-Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
-
-### ¿Como probar en la nube?
-
-[Github-Codespaces](https://github.com/features/codespaces)
-
-### Comandos git básicos
-
-```
-git clone https://github.com/gitt-3-pat/p1
-git status
-git add .
-git commit -m "TU MENSAJE"
-git push
-
-git checkout -b feature/1
-git checkout main
-```
-
-### ¿Cómo escribir un README.md con formato?
-
-[Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-
-
-<details>
-  <summary>Memoria</summary>
-
-
-
-## Git.pdf
-### git clone
+# Git.pdf
+## git clone
 
 Clona el repositorio que tenemos en nuestro github (previamente fork del
 repositorio origen del profesor) para poder trabajar sobre el en nuestro
@@ -41,19 +10,19 @@ lugar de nuestro ordenador.
 
 ![Log del terminal de git clone](/Memoria/images/gitclone.png)
 
-### git status
+## git status
 
 Nos da la situación actual del archivo sobre el que estamos trabajando. Nos dice que está al día, actualizado y en la main Branch.
 
 ![Log del terminal de git status](/Memoria/images/gitstatus.png)
 
-### git add . 
+## git add . 
 
 Añade todos los cambios al directorio de trabajo. El punto, en muchos lenguajes (sql, command window) hace referencia a todos los objetos. Por lo que añade todos los cambios.
 
 ![Log del terminal de git add](/Memoria/images/gitadd.png)
 
-### git commit –m “Hola mundo”
+## git commit –m “Hola mundo”
 
 Después de añadir los cambios al area de preparación con el add. El commit nos permite guardar una instantánea de los cambios realizados. Chatgpt define el commit como: “Una instantánea (snapshot) de los cambios realizados en un repositorio en un momento específico. Cada commit contiene información sobre las modificaciones realizadas en los archivos del proyecto, quién hizo el cambio, cuándo se hizo y un mensaje descriptivo que proporciona información sobre el propósito del commit”. El -m permite añadir después ese mensaje, que en este caso de forma errónea hemos puesto “Hola mundo” en donde estarían descritos los cambios realizados.
 
@@ -63,32 +32,32 @@ Una vez commit, hacemos el push para subirlos al repositorio online de github. L
 
 ![Log del terminal de git push](/Memoria/images/githubpush.png)
 
-### git checkout
+## git checkout
 
 El -b indica que debe crear una nueva rama. Checkout sirve para cambiar entre ramas. -b sirve para abreviar el comando Branch. Por lo tanto en estos dos se crea y cambia a la rama feature/1 y luego se vuelve a la rama main.
 
 ![Log del terminal de git checkout](/Memoria/images/gitcheckout.png)
 
-## Entorno.pdf
+# Entorno.pdf
 
-### Instalación de java
+## Instalación de java
 
 ![Log del terminal probando la instalación de java](/Memoria/images/instalaciondejava.png)
 
-### Instalación de Maven
+## Instalación de Maven
 
 ![Log del terminal probando la instalación de maven](/Memoria/images/instalacionmaven.png)
 
-### Instalación de VSCODE
+## Instalación de VSCODE
 
 ![Log del terminal probando la instalación de VSCODE](/Memoria/images/vscode.png)
 
-### Instalación de intellij
+## Instalación de intellij
 
 Es de pago. Está descargado y pendiente de que me concedan la licencia gratuita de estudiante. Ya he hecho la solicitud.
 
 ![Log del terminal probando la instalación de intellij](/Memoria/images/intellijprueba.png)
 
-</details>
+
 
 
