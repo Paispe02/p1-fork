@@ -56,7 +56,7 @@ El -b indica que debe crear una nueva rama. Checkout sirve para cambiar entre ra
 
 Descargada la versión de community
 
-![Foto del menú de aplicaciones](/Memoria/images/intellijComunitydescargado.png)
+![Foto del menú de aplicaciones](/Memoria/images/IntellijComunitydescargado.png)
 
 
 
