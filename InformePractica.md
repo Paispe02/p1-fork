@@ -50,13 +50,13 @@ El -b indica que debe crear una nueva rama. Checkout sirve para cambiar entre ra
 
 ## Instalación de VSCODE
 
-![Log del terminal probando la instalación de VSCODE](/Memoria/images/vscode.png)
+![Foto del menu de aplicaciones con VSCODE](/Memoria/images/vscode.png)
 
 ## Instalación de intellij
 
-Es de pago. Está descargado y pendiente de que me concedan la licencia gratuita de estudiante. Ya he hecho la solicitud.
+Descargada la versión de community
 
-![Log del terminal probando la instalación de intellij](/Memoria/images/intellijprueba.png)
+![Foto del menú de aplicaciones](/Memoria/images/intellijComunitydescargado.png)
 
 
 
